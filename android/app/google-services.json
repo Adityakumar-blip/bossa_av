@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "928760683611",
+    "project_id": "bossa-4625b",
+    "storage_bucket": "bossa-4625b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928760683611:android:d0107af69e674670c1737e",
+        "android_client_info": {
+          "package_name": "com.myapp.bossa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928760683611-aap7kvl94j76jdo7oeo9k3qsrup4qbij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATuvOejKfmcud922kJF1jq_HaR3pjVF7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105172652061089055635",
+              "client_type": 3
+            },
+            {
+              "client_id": "928760683611-6e4srd6dgnnlin09019um1qt5jepo0c5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myapp.bossa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928760683611:android:1413d81d166afac9c1737e",
+        "android_client_info": {
+          "package_name": "com.myapp.bossarewards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928760683611-aap7kvl94j76jdo7oeo9k3qsrup4qbij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATuvOejKfmcud922kJF1jq_HaR3pjVF7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105172652061089055635",
+              "client_type": 3
+            },
+            {
+              "client_id": "928760683611-6e4srd6dgnnlin09019um1qt5jepo0c5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myapp.bossa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928760683611:android:471c6ad55f91be3ac1737e",
+        "android_client_info": {
+          "package_name": "com.myapp.rewardsbossa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928760683611-aap7kvl94j76jdo7oeo9k3qsrup4qbij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATuvOejKfmcud922kJF1jq_HaR3pjVF7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105172652061089055635",
+              "client_type": 3
+            },
+            {
+              "client_id": "928760683611-6e4srd6dgnnlin09019um1qt5jepo0c5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myapp.bossa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

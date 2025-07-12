@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="MavenRepo" />
+      <option name="name" value="MavenRepo" />
+      <option name="url" value="https://repo.maven.apache.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Google8" />
+      <option name="name" value="Google8" />
+      <option name="url" value="https://dl.google.com/dl/android/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="BintrayJCenter3" />
+      <option name="name" value="BintrayJCenter3" />
+      <option name="url" value="https://jcenter.bintray.com/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven2" />
+      <option name="name" value="maven2" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/background_fetch-1.2.1/android/libs/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven5" />
+      <option name="name" value="maven5" />
+      <option name="url" value="https://developer.huawei.com/repo/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$PROJECT_DIR$/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="https://storage.googleapis.com/download.flutter.io" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven" />
+      <option name="name" value="maven" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_background_geolocation-4.13.1/android/libs/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_local_notifications-9.9.1/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/fluttertoast-8.2.2/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/share_plus-7.1.0/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/webview_flutter_android-2.10.4/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_messaging-14.6.8/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/url_launcher_android-6.1.0/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_core-2.16.0/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_share_me-1.4.0/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/shared_preferences_android-2.2.1/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/social_share-2.3.1/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/geocoding_android-2.1.2/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$PROJECT_DIR$/app/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/huawei_push-6.10.0+300/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/geolocator_android-4.3.1/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/location-5.0.3/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/path_provider_android-2.2.0/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven" />
+      <option name="name" value="maven" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_background_geolocation-4.13.4/android/libs/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/fluttertoast-8.2.4/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/share_plus-7.2.1/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_messaging-14.7.4/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/url_launcher_android-6.0.38/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_core-2.22.0/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/shared_preferences_android-2.2.0/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/huawei_push-6.11.0+300/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/geolocator_android-4.4.0/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="file:$USER_HOME$/.pub-cache/hosted/pub.dev/path_provider_android-2.1.0/android/libs" />
+    </remote-repository>
+  </component>
+</project>
